@@ -5,4 +5,5 @@ node {
    sleep 5
   }
 //test1
+//test2
 }
