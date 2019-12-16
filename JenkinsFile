@@ -2,6 +2,7 @@ node {
   // Mark the code checkout 'stage'....
   stage('Stage Checkout'){
    echo 'checkout'
-   sleep 5000
+   sleep 5
   }
+//test1
 }
